@@ -1,5 +1,6 @@
 {
 	"name": "sql-alias",
+	"author": "Alessandro Sgarbi (https://github.com/melchisedekko)",
 	"displayName": "sql-alias",
 	"description": "it looks for Alias of a Table or viceversa",
 	"publisher": "sql-alias",
@@ -48,5 +49,9 @@
 	},
 	"dependencies": {
 		"mssql": "^8.0.2"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/melchisedekko/sql-alias"
 	}
 }
